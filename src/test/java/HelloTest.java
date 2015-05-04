@@ -8,6 +8,7 @@ import mockit.integration.junit4.JMockit;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 
+// Expectations/StrictExpectations/NonStrictExpectationsの違いを調べるサンプル
 @RunWith(JMockit.class)
 public class HelloTest {
 	@Mocked
